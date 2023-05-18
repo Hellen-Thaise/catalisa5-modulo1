@@ -1,0 +1,10 @@
+1- Acordar/Abrir os olhos
+2 - Trocar de roupa
+3 - Ir ao banheiro
+4 - Lavar o rosto
+5 - Escovar os dentes
+6 - Tomar café da manhã
+7 - Ir até o escritório
+8 - Sentar na cadeira
+9 - Ligar o computador
+10 - Iniciar a jornada de trabalho
